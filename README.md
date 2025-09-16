@@ -20,22 +20,25 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## ⚡ My GitHub Stats
+ ## 🪸 My GitHub Stats
 
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aditi25srivastava&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aditi25srivastava&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi25srivastava&layout=compact&langs_count=8&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi25srivastava&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
 
 </div>
+
+<br><br>  <!-- Adds extra space below the stats section -->
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_aditi25srivastava.aditi25srivastava)
 
