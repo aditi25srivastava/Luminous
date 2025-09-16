@@ -1,7 +1,28 @@
 # Luminous
 ![Banner](https://your-uploaded-image-url.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=%F0%9F%8C%9F+Hello+World%2C+I'm++Aditi+Srivastava!+!++%F0%9F%8E%AF+Passionate+Developer+%7C+Tech+Enthusiast+%7C+Lifelong+Learner++Welcome+to+my+tech+universe!+I+love+crafting+efficient+code%2C+solving+complex+problems%2C+and+continuously+pushing+the+boundaries+of+my+skills.+Let's+build+something+amazing+together!-;%F0%9F%9A%80+Passionate+Developer+%7C+Tech+Enthusiast+%7C+Lifelong+Learner+%F0%9F%93%88)](https://git.io/typing-svg)
+<br><br>
+
+<div align="center">
+
+![Total Contributions](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat&label=Total+Contributions)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Longest Streak](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+
+I'm a 3rd-year student pursuing bachelor's in Computer Science at BIT, Gorakhpur '27.
+Passionate learner who's always willing to learn and work across technologies and domains 🔰.
+I love to explore new technologies and leverage them to solve real-life problems 💡.
+Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 💻 and working on my Data Structures and Algorithms skills 😁.
+
+</div>
+
 
 ## 🛠️ Technology Stack
 
