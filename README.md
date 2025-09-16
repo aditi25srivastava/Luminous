@@ -22,8 +22,20 @@
 
 ## ⚡ My GitHub Stats
 
-![Aditi Srivastava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?aditi25srivastava=aditi25srivastava&layout=compact&langs_count=8&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_aditi25srivastava.aditi25srivastava)
 
