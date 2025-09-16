@@ -75,7 +75,7 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 </div>
 <div align="center">
 
-<img src="https://[your-image-link](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBtN20xM3ZjYTRpdGZtOGFldmd3ejhsc3cycGlrZmc1ejZrOGM1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)" width="600" alt="Competitive Programming Banner" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzMDdwejAzbGp2bTc5OW05eHZ2dms1Mmp1MmhwenFxajBqeDliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="600" alt="Competitive Programming Animation" />
 
 </div>
 
