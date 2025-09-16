@@ -75,11 +75,15 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 [![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourhandle)
 
 </div>
-<<div align="center">
 
-<img src="[https://your-image-link](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzMDdwejAzbGp2bTc5OW05eHZ2dms1Mmp1MmhwenFxajBqeDliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)" width="600" alt="Competitive Programming Banner" />
+<br><br>
+
+<div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzMDdwejAzbGp2bTc5OW05eHZ2dms1Mmp1MmhwenFxajBqeDliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="500" alt="Competitive Programming Animation" />
 
 </div>
+
 
 
 
