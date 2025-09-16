@@ -64,6 +64,23 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 <br><br>  <!-- Adds extra space below the stats section -->
 
 
+<div align="center">
+
+## 🎮 Competitive Programming
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourhandle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourhandle)
+[![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourhandle)
+
+</div>
+<div align="center">
+
+<img src="https://[your-image-link](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBtN20xM3ZjYTRpdGZtOGFldmd3ejhsc3cycGlrZmc1ejZrOGM1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)" width="600" alt="Competitive Programming Banner" />
+
+</div>
+
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_aditi25srivastava.aditi25srivastava)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-green)](https://https://aditi25srivastava.github.io/aditi.portfolio.github.io/.com)
