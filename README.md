@@ -26,7 +26,8 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 </div>
 
 
-
+<div align="center">
+  
 ## 🛠️ Technology Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -44,7 +45,7 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
+</div>
 <div align="center">
   
  ## 🪸 My GitHub Stats
