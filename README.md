@@ -81,11 +81,8 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 
 <br><br>
 
-<div align="center">
+![Competitive Programming Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzMDdwejAzbGp2bTc5OW05eHZ2dms1Mmp1MmhwenFxajBqeDliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzMDdwejAzbGp2bTc5OW05eHZ2dms1Mmp1MmhwenFxajBqeDliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="500" alt="Competitive Programming Animation" />
-
-</div>
 
 
 
