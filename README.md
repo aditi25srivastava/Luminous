@@ -1,14 +1,6 @@
 # Luminous
 ![Banner](https://your-uploaded-image-url.png)
 
-<br><br>
-
-<div align="center">
-
-![Total Contributions](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat&label=Total+Contributions)
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![Longest Streak](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
-
 </div>
 
 <br><br>
@@ -21,7 +13,17 @@ Passionate learner who's always willing to learn and work across technologies an
 I love to explore new technologies and leverage them to solve real-life problems 💡.
 Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 💻 and working on my Data Structures and Algorithms skills 😁.
 
+
 </div>
+
+<br><br>
+
+<div align="center">
+
+![Total Contributions](https://komarev.com/ghpvc/?username=aditi25srivastava&color=blue&style=flat&label=Total+Contributions)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditi25srivastava&theme=radical)
+![Longest Streak](https://github-readme-stats.vercel.app/api?username=aditi25srivastava&show_icons=true&count_private=true&theme=radical)
+
 
 
 ## 🛠️ Technology Stack
