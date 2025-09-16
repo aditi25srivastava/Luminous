@@ -21,7 +21,7 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 <div align="center">
 
 ![Total Contributions](https://komarev.com/ghpvc/?username=aditi25srivastava&color=blue&style=flat&label=Total+Contributions)
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.aditi25srivastava)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aditi25srivastava.aditi25srivastava)
   ![Profile Views](https://komarev.com/ghpvc/?username=aditi25srivastava&color=blue)
 </div>
 
