@@ -46,6 +46,9 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
+
+<br><br>
+
 <div align="center">
   
  ## 🪸 My GitHub Stats
