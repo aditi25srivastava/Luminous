@@ -81,9 +81,10 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 
 <br><br>
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" alt="Competitive Programming Animation" />
-
+  <video width="500" controls>
+    <source src="https://github.com/aditi25srivastava/assets/blob/main/57d797f5d3a6adc2b8d45909f97a2b2b.mp4?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 <br><br>
