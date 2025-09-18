@@ -82,9 +82,10 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 <br><br>
 <div align="center">
 
-<img src="https://github.com/aditi25srivastava/assets/blob/main/tenor.jpeg?raw=true" width="500" alt="Animated GIF or Image" />
+<img src="https://media.tenor.com/0TYNuFASrv8AAAAC/pasha-turn-on-the-server-pls.gif" width="500" alt="Pasha Turn On The Server Pls" />
 
 </div>
+>
 
 
 
