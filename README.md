@@ -80,7 +80,12 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 </div>
 
 <br><br>
-<<img src="https://github.com/aditi25srivastava/assets/blob/main/example-image.gif?raw=true" width="500" />
+<div align="center">
+
+<img src="https://github.com/aditi25srivastava/assets/blob/main/tenor.jpeg?raw=true" width="500" alt="Animated GIF or Image" />
+
+</div>
+
 
 
 <br><br>
