@@ -80,12 +80,8 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 </div>
 
 <br><br>
-<div align="center">
-  <video width="500" controls>
-    <source src="https://github.com/aditi25srivastava/assets/blob/main/57d797f5d3a6adc2b8d45909f97a2b2b.mp4?raw=true" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<<img src="https://github.com/aditi25srivastava/assets/blob/main/example-image.gif?raw=true" width="500" />
+
 
 <br><br>
 
