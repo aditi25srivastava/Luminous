@@ -82,9 +82,10 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 <br><br>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" alt="Animated GIF" />
+<img src="https://media1.tenor.com/m/8ws92KXBoDsAAAAC/pasha-turn-on-the-server-pls-minecraft.gif" width="500" alt="Pasha Turn On The Server Pls" />
 
 </div>
+
 
 
 
