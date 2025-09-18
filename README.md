@@ -82,9 +82,10 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 <br><br>
 <div align="center">
 
-<img [src="](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzMDdwejAzbGp2bTc5OW05eHZ2dms1Mmp1MmhwenFxajBqeDliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="500" alt="Competitive Programming Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" alt="Competitive Programming Animation" />
 
 </div>
+
 <br><br>
 
 
