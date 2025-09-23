@@ -92,7 +92,7 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 
 <br><br>
 
-[![Aditi25srivastava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aditi Srivastava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
 
