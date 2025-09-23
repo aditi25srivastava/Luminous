@@ -73,7 +73,7 @@ Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm cur
 
 ## 🎮 Competitive Programming
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/[yourhandle](https://codeforces.com/profile/Aditisrivastava_25))
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/[(https://codeforces.com/profile/Aditisrivastava_25))]
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourhandle)
 
 
