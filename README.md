@@ -89,7 +89,8 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 
 <br><br>
 
-[![Aditi Srivastava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aditi Srivastava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=github-compact&height=350)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br><br>
 
