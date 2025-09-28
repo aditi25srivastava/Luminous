@@ -91,17 +91,30 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 
 [![Aditi Srivastava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=github-compact&height=350)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ 🌐 Socials
 
-<br><br>
-
-
-
+<a href="https://discord.com/channels/1022871757289422898/1345044976794472498 https://discord.com/channels/1022871757289422898/1345044976794472498">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="150" height="30" />
+ </a>
+<a href="YOUR_INSTAGRAM_LINK">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150" height="30" />
+</a>
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="30" />
+</a>
+<a href="YOUR_KAGGLE_LINK">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="150" height="30" />
+</a>
+<a href="YOUR_TWITTER_LINK">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="150" height="30" />
+</a>
+<a href="YOUR_WEBSITE_LINK">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="150" height="30" />
+</a>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_aditi25srivastava.aditi25srivastava)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-green)](https://https://aditi25srivastava.github.io/aditi.portfolio.github.io/.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/[yourhandle](https://x.com/AditiSriva70176))
 
 
 
