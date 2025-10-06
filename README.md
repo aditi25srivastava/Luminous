@@ -96,7 +96,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 <a href="https://discord.com/channels/1022871757289422898/1345044976794472498 https://discord.com/channels/1022871757289422898/1345044976794472498">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="150" height="30" />
  </a>
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/_reverie_era?igsh=MW1mdXl5ejhjdjBydA==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150" height="30" />
 </a>
 <a href="YOUR_LINKEDIN_LINK">
