@@ -99,7 +99,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 <a href="https://www.instagram.com/_reverie_era?igsh=MW1mdXl5ejhjdjBydA==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150" height="30" />
 </a>
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/aditi-srivastava-3765ab279">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="30" />
 </a>
 <a href="YOUR_KAGGLE_LINK">
@@ -108,7 +108,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 <a href="YOUR_TWITTER_LINK">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="150" height="30" />
 </a>
-<a href="YOUR_WEBSITE_LINK">
+<a href="https://aditi-srivastava-17x68ni.gamma.site/">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="150" height="30" />
 </a>
 
