@@ -20,6 +20,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 ![Total Contributions](https://komarev.com/ghpvc/?username=aditi25srivastava&color=blue&style=flat&label=Total+Contributions)
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.aditi25srivastava)
   ![Profile Views](https://komarev.com/ghpvc/?username=aditi25srivastava&color=blue)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-visit-green)](https://https://aditi25srivastava.github.io/aditi.portfolio.github.io/.com)
 </div>
 
 
@@ -93,7 +94,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 
 <div align="center">
   
- 🌐 Socials
+  ## 🌐 Socials
  
   <a href="https://discord.com/channels/1022871757289422898/1345044976794472498">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -115,10 +116,17 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
   </a>
 </div>
 
-<br><br>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="GitHub Streak" width="1000" height="350"/>
+</div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_aditi25srivastava.aditi25srivastava)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-green)](https://https://aditi25srivastava.github.io/aditi.portfolio.github.io/.com)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+
+
+
 
 
 
