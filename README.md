@@ -91,27 +91,31 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 
 [![Aditi Srivastava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi25srivastava&theme=github-compact&height=350)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+  
  🌐 Socials
+ 
+  <a href="https://discord.com/channels/1022871757289422898/1345044976794472498">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://aditi-srivastava-17x68ni.gamma.site/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditi-srivastava-3765ab279/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="YOUR_WEBSITE_LINK">
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+  <a href="YOUR_KAGGLE_LINK">
+    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="YOUR_TWITTER_LINK">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
-<a href="https://discord.com/channels/1022871757289422898/1345044976794472498 https://discord.com/channels/1022871757289422898/1345044976794472498">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="150" height="30" />
- </a>
-<a href="https://www.instagram.com/_reverie_era?igsh=MW1mdXl5ejhjdjBydA==">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150" height="30" />
-</a>
-<a href="https://www.linkedin.com/in/aditi-srivastava-3765ab279">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="30" />
-</a>
-<a href="YOUR_KAGGLE_LINK">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="150" height="30" />
-</a>
-<a href="YOUR_TWITTER_LINK">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="150" height="30" />
-</a>
-<a href="https://aditi-srivastava-17x68ni.gamma.site/">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="150" height="30" />
-</a>
-
+<br><br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_aditi25srivastava.aditi25srivastava)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-green)](https://https://aditi25srivastava.github.io/aditi.portfolio.github.io/.com)
