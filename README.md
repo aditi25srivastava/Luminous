@@ -42,6 +42,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
@@ -72,7 +73,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 ## 🎮 Competitive Programming
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/[(https://codeforces.com/profile/Aditisrivastava_25))
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourhandle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/https://leetcode.com/u/aditi_25srivatava)
 
 
 </div>
@@ -80,7 +81,7 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 <br><br>
 <div align="center">
 
-<img src="https://media1.tenor.com/m/8ws92KXBoDsAAAAC/pasha-turn-on-the-server-pls-minecraft.gif" width="500" alt="Pasha Turn On The Server Pls" />
+<img src="https://media1.tenor.com/m/8ws92KXBoDsAAAAC/pasha-turn-on-the-server-pls-minecraft.gif" width="500" height="700" alt="Pasha Turn On The Server Pls" />
 
 </div>
 
@@ -120,9 +121,17 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
   <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="GitHub Streak" width="1000" height="350"/>
 </div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br><br>
 
+<div align="center">
 
+ ## ✨ Fun Fact
+  
+ ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CCoffee+is+my+favorite+source+of+recursions+😮‍💨+Nevermind+👾!&center=true&width=500&height=30&color=FFD700)
+
+</div>
+
+<br><br>
 
 
 
