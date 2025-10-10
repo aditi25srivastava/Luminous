@@ -127,12 +127,11 @@ I’m a 3rd-year B.Tech (CSE) student specializing in Data Science at BIT, Gorak
 
  ## ✨ Fun Fact
 
-> I can debug code faster than I can find my keys!!
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coffee+is+my+favorite+source+of+recursion+☄️!!!;Nevermind+👾!!!&center=true&width=800&height=30&color=#00FFFF)
 
 
 </div>
 
-<br><br>
 
 
 
